@@ -12,7 +12,7 @@ namespace TNRD.Histogrammer
         public SearchResult(string name, object value, string path, Component context)
         {
             Name = name;
-            Value = value;
+            Value = value ?? string.Empty;
             Path = path;
             Context = context;
         }
