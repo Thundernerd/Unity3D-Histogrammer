@@ -34,13 +34,13 @@ namespace TNRD.Histogrammer
 
         private Rect actualBoxRect;
 
-        private Dictionary<object, List<SearchResult>> valueToSearchResults =
+        private readonly Dictionary<object, List<SearchResult>> valueToSearchResults =
             new Dictionary<object, List<SearchResult>>();
 
-        private Dictionary<object, bool> valueToFoldout =
+        private readonly Dictionary<object, bool> valueToFoldout =
             new Dictionary<object, bool>();
 
-        private Dictionary<object, TreeViewData> valueToTreeViewData =
+        private readonly Dictionary<object, TreeViewData> valueToTreeViewData =
             new Dictionary<object, TreeViewData>();
 
         private int totalSearchResults;
