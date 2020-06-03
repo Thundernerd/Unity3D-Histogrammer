@@ -1,0 +1,20 @@
+{
+  "name": "net.tnrd.histogrammer",
+  "version": "1.0.0",
+  "displayName": "Histogrammer",
+  "description": "A that helps you pinpoint redundant data in your project",
+  "unity": "2019.1",
+ "keywords": [
+    "editor",
+    "help",
+    "helper",
+    "data",
+    "redundant"
+  ],
+  "author": {
+    "name": "Christiaan Bloemendaal",
+    "email": "unity3d@tnrd.net",
+    "url": "https://www.tnrd.net"
+  },
+  "dependencies": {}
+}
