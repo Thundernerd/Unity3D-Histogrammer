@@ -23,7 +23,7 @@ Another issue is that sometimes you just expose too much in the inspector. Every
 This is where *Histogrammer* comes in. With this tool you can more easily pinpoint data in your project that isn't actually being used all that often, or just straight up is the same value across all prefabs.
 
 <p align="center">
-  <img src="https://github.com/Thundernerd/Unity3D-Histogrammer/blob/master/Documentation%7E/histogrammer_1.png">
+  <img src="https://github.com/Thundernerd/Unity3D-Histogrammer/raw/master/Documentation%7E/histogrammer_1.png">
 </p>
 
 ## Usage
